@@ -9,7 +9,7 @@
     "ratingscount": 250,
     "seller": "BottleStore Inc.",
     "shipping": "Free Shipping",
-    "stock": true,
+    "stock": false,
     "category": "Bottle"
   },
   {
@@ -35,7 +35,7 @@
     "ratingscount": 180,
     "seller": "EcoWare",
     "shipping": "Free Shipping",
-    "stock": true,
+    "stock": false,
     "category": "Bottle"
   },
   {
@@ -87,7 +87,7 @@
     "ratingscount": 280,
     "seller": "CopperCraft",
     "shipping": "Free Shipping",
-    "stock": true,
+    "stock": false,
     "category": "Bottle"
   },
   {
@@ -113,7 +113,7 @@
     "ratingscount": 200,
     "seller": "InfuseMe",
     "shipping": "Free Shipping",
-    "stock": true,
+    "stock": false,
     "category": "Bottle"
   },
   {
