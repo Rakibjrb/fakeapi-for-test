@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Seiko Prospex Diver",
+    "price": 350,
+    "model": "SRP777",
+    "release_date": "2022-02-15"
+  },
+  {
+    "id": 2,
+    "name": "Rolex Submariner",
+    "price": 8000,
+    "model": "116610LN",
+    "release_date": "2021-09-10"
+  },
+  {
+    "id": 3,
+    "name": "Casio G-Shock",
+    "price": 120,
+    "model": "GA2100-4A",
+    "release_date": "2020-05-20"
+  },
+  {
+    "id": 4,
+    "name": "Fossil Grant Chronograph",
+    "price": 175,
+    "model": "FS4813",
+    "release_date": "2019-11-03"
+  },
+  {
+    "id": 5,
+    "name": "Omega Seamaster",
+    "price": 5000,
+    "model": "210.30.42.20.03.001",
+    "release_date": "2022-06-28"
+  }
+]
