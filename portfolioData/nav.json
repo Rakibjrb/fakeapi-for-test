@@ -1,0 +1,12 @@
+{
+  "navigationLinks": [
+    { "name": "Home" },
+    { "name": "Portfolio" },
+    { "name": "About" },
+    { "name": "Services" },
+    { "name": "Contact" },
+    { "name": "Client Work" },
+    { "name": "Skills" },
+    { "name": "FAQ" },
+  ]
+}
