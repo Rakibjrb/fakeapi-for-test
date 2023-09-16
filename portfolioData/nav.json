@@ -1,10 +1,1 @@
- [
-    { "name": "Home" },
-    { "name": "Portfolio" },
-    { "name": "About" },
-    { "name": "Services" },
-    { "name": "Contact" },
-    { "name": "Client Work" },
-    { "name": "Skills" },
-    { "name": "FAQ" },
-  ]
+["Home","Portfolio","About","Services","Contact","Client Work","Skills","FAQ"]
