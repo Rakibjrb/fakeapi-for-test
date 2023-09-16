@@ -1,5 +1,4 @@
-{
-  "navigationLinks": [
+ [
     { "name": "Home" },
     { "name": "Portfolio" },
     { "name": "About" },
@@ -9,4 +8,3 @@
     { "name": "Skills" },
     { "name": "FAQ" },
   ]
-}
