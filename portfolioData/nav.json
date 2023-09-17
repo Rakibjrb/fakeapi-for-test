@@ -2,12 +2,12 @@
   {
     "path": "/",
     "component": "Home",
-    "title": "Home Page"
+    "title": "Home"
   },
   {
     "path": "/about",
     "component": "About",
-    "title": "About Us"
+    "title": "About"
   },
   {
     "path": "/portfolio",
