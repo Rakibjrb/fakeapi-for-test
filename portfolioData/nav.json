@@ -1,1 +1,37 @@
-["Home", "About", "Portfolio","Skills","Services","Contact","Client Work","FAQ"]
+[
+    {
+      "path": "/",
+      "component": "Home",
+      "title": "Home Page"
+    },
+    {
+      "path": "/about",
+      "component": "About",
+      "title": "About Us"
+    },
+    {
+      "path": "/portfolio",
+      "component": "Portfolio",
+      "title": "Portfolio"
+    },
+    {
+      "path": "/skills",
+      "component": "Skills",
+      "title": "Skills"
+    },
+    {
+      "path": "/services",
+      "component": "Services",
+      "title": "Services"
+    },
+    {
+      "path": "/projects",
+      "component": "Projects",
+      "title": "Projects"
+    },
+    {
+      "path": "/contact",
+      "component": "Contact",
+      "title": "Contact"
+    },
+]
